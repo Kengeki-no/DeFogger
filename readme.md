@@ -18,3 +18,9 @@ Option B: Go to the "Releases" page and download the latest DeFogger.zip file an
 - Zone levels on mouse hover
 - Fishing levels on mouse hover
 - Player and Cursor Coordinates on the main map
+
+## Attribution
+
+The MIT License related to ElvUI_FogofWar, included in this repo, relates to the coordinate data derived.
+
+Source: https://github.com/cr4ckp0t/ElvUI_FogofWar
