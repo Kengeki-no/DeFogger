@@ -1,4 +1,5 @@
 The MIT License below applies to ElvUI_FogofWar, from which DeFogger's fog overlay coordinate data was derived.
+
 Source: https://github.com/cr4ckp0t/ElvUI_FogofWar
 
 MIT License
