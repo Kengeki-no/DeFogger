@@ -1,0 +1,7 @@
+<Bindings>
+    <Binding name="DEFOGGER_TOGGLE_CONFIG" header="DEFOGGER">
+        if DeFogger and DeFogger.ToggleConfigFrame then
+            DeFogger.ToggleConfigFrame()
+        end
+    </Binding>
+</Bindings>
