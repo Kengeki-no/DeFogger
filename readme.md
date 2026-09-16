@@ -14,7 +14,7 @@ Option B: Go to the "Releases" page and download the latest DeFogger.zip file an
 
 ## Features
 
-- Clear map fog
-- Zone levels
-- Fishing levels
+- Clear map fog from unvisited areas
+- Zone levels on mouse hover
+- Fishing levels on mouse hover
 - Player and Cursor Coordinates on the main map
